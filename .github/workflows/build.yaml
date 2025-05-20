@@ -29,4 +29,4 @@ jobs:
         with:
           context: ./jenkins
           push: true
-          tags: tags: jfrog.it-academy.by/public/jenkins-ci:zayatsvasiliyv
+          tags: jfrog.it-academy.by/public/jenkins-ci:zayatsvasiliyv
